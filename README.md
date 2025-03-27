@@ -2,6 +2,8 @@
 
 A fun Pygame-based pong game where players control emojis to hit a bouncing ball. The game features automatic scoring and a win condition.
 
+![Game Screenshot](smiley-screenshot.png)
+
 ## Features
 - Two-player gameplay
 - Emoji-controlled paddles
